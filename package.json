@@ -1,6 +1,6 @@
 {
   "name": "@batzu/erela.js",
-  "version": "2.3.3-f",
+  "version": "2.3.4",
   "description": "An easy-to-use Lavalink client for NodeJS.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -30,8 +30,8 @@
     "ayntee"
   ],
   "license": "Apache-2.0",
-  "repository": "MenuDocs/erela.js",
-  "bugs": "https://github.com/MenuDocs/erela.js",
+  "repository": "batzuu/erela.js",
+  "bugs": "https://github.com/batzuu/erela.js",
   "devDependencies": {
     "@types/node": "^16.6.1",
     "@types/ws": "^7.4.7",
@@ -68,5 +68,5 @@
       "plugin:@typescript-eslint/recommended"
     ]
   },
-  "homepage": "https://github.com/MenuDocs/erela.js#readme"
+  "homepage": "https://github.com/batzuu/erela.js"
 }
